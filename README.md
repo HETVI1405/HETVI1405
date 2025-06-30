@@ -9,7 +9,7 @@
 
 🚀 About Me  
 - 🎓 Studying full stack course at **[ Red and White multimedia Education. ]** 
-- 💡 Currently learning **[HTML , CSS , Bootstrap , Java Script ]**  
+- 💡 Currently learning **[HTML , CSS , Bootstrap , Java Script, React]**  
 
 - 🌱 Interested in **[ Web Dev, AI, Design]**  
  
